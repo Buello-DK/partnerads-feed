@@ -2,12 +2,13 @@
 <products>
   <product>
     <id>BUELLO001</id>
-    <title>MASSAGE & VARMEBÆLTE PRO™</title>
+    <title>MASSAGE &amp; VARMEBÆLTE PRO™</title>
     <description>Infrarød varme og massage til dyb smertelindring. Genopladeligt varmebælte med 30‑dages tilfredshedsgaranti.</description>
     <link>https://buello.dk/products/nordisk-varmebaelte%E2%84%A2</link>
     <image_link>https://cdn.shopify.com/s/files/1/0675/7597/2107/files/5FC1C635-9882-45FB-BDB7-1193662BD8B3.png?v=1752604756</image_link>
-    <price currency="DKK">1195.00 DKK</price>
-    <sale_price currency="DKK">795.00 DKK</sale_price>
+    <price>1195.00 DKK</price>
+    <sale_price>795.00 DKK</sale_price>
     <availability>in_stock</availability>
   </product>
 </products>
+
